@@ -1,1 +1,3 @@
 this is my first push
+
+changed my name in the git bash
